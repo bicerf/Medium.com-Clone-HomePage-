@@ -1,0 +1,125 @@
+.bg-medium-blue{
+    background-color:#C4E2FF;
+}
+.border-bottom-dark{
+    border-bottom:1px solid rgba(41, 41, 41, 1);
+}
+body{
+    font-family:gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.familyfont1{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.trendingSectionTextColor{
+    color: rgba(41, 41, 41, 1);
+    font-weight: 500;
+    line-height: 16px;
+    font-size: 13px;
+    text-overflow: ellipsis;
+    padding-right: 2px;
+    text-decoration: none;
+    
+    font-weight:600;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+
+}
+a:hover {
+    color: rgba(41, 41, 41, 1);
+    text-decoration: none;
+}
+.trendingMedium{
+    text-transform: uppercase;
+    letter-spacing: 0.083em;
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.trendingNumber{
+    font-weight: bold;
+    color: rgba(230, 230, 230, 1);
+    letter-spacing: 0;
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.trendingTitle{
+    max-height: none;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: rgba(41, 41, 41, 1);
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.trendingDate{
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.topicsList{
+    letter-spacing: 0.083em;
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.articlesTitle{
+    max-height: none;
+    letter-spacing: 0px;
+    line-height: 28px;
+    font-size: 22px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.articlesParagraph{
+    color: rgba(117, 117, 117, 1);
+    font-size: 16px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: inherit;
+}
+
+.articlesTopicTitleButton{
+    transition: background 300ms ease 0s;
+    border-radius: 100px;
+    padding: 2px 8px;
+    white-space: nowrap;
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    background-color: rgba(242, 242, 242, 1);
+    font-weight: 400;
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+
+}
